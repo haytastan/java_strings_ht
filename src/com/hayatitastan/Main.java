@@ -1,7 +1,7 @@
 package com.hayatitastan;
 
 /**
- * Created by Dr. Hayati TAŞTAN on $DATE
+ * Created by Dr. Hayati TAŞTAN on 2.10.2022
  */
 public class Main {
     public static void main(String[] args) {
